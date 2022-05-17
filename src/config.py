@@ -1,4 +1,9 @@
 
+# MLflow specific
+ARTIFACT_PATH = "tmp/my_tracking"
+EXPERIMENT_NAME = "mlflow-test-yfinance"
+
+
 TICKERS = ["VOW3.DE", "PAH3.DE", "BMW.DE"]
 
 # Starting Date

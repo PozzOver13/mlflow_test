@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Pandora/Personale/Github/mlflow_test/mlruns/1/47bed27ae3334eb599fafecb6c28704d/artifacts
+end_time: 1652785619470
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 47bed27ae3334eb599fafecb6c28704d
+run_uuid: 47bed27ae3334eb599fafecb6c28704d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652785589183
+status: 3
+tags: []
+user_id: CG08900
